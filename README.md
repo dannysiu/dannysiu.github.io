@@ -1,39 +1,29 @@
 ## Welcome, visitors! This is Danny Siu and I'm happy you've come to my website!
 
-![A cute Jigglypuff](/images/jigglypuff_dream.png)
+![A cute Jigglypuff](/images/jigglypuff_dream.png){:height="28px" width="30px"}
 
-You can use the [editor on GitHub](https://github.com/dannysiu/dannysiu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can access my previous [websites] and [projects] by clicking on the previous keywords. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My resume can be found [here](https://github.com/dannysiu/dannysiu.github.io/edit/master/Danny_Siu_Resume.pdf), which can help give you a little more background before reading
+into the details of my projects and website. 
 
-### Markdown
+Overall, hope you enjoy my website and getting to know a little more about me!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![A picture of ME!](/images/profile_2.png){:height="266px" width="150px"}
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+If you have any suggestions for my page, feel free to email me at chat2danny@gmail.com. 
 
-1. Numbered
-2. List
+Note: This website is pretty new and undergoing development, so I hope you understand that it's not fully organized and *amazing* yet. 
+In the meantime, I'll be updating this website in the weeks to come, so be sure to bookmark this page and come back for new website changes and updates!
 
-**Bold** and _Italic_ and `Code` text
+Thanks for visiting! 
+![A wild and happy Pikachu](/images/pikachu_dancing.png){:height="33px" width="37px"}
+![Goofy Pokemon stack](/images/goof_stacks.jpg){:height="75px" width="57px"}
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[editor on GitHub](https://github.com/dannysiu/dannysiu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dannysiu/dannysiu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
