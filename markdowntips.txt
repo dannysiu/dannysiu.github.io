@@ -1,6 +1,6 @@
-## Welcome, visitors! This is Danny Siu and I'm happy you've come to my website!
-
-![A cute Jigglypuff](/images/jigglypuff_dream.png)
+This is the README.md original content below. It has tips on how to get started on building my GitHub Pages website.
+-this is mainly for reference purposes. 
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dannysiu/dannysiu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
