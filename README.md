@@ -9,7 +9,7 @@ into the details of my projects and website.
 
 Overall, hope you enjoy my website and getting to know a little more about me!
 
-![A picture of ME](/images/profile_2.png){:height="266px" width="150px"}
+![A picture of ME](/images/profile_formal.png)
 
 
 
