@@ -6,8 +6,10 @@
 If you are confused about anything or just want the general gist of my prior experiences, my resume can be found [here](https://github.com/dannysiu/dannysiu.github.io/edit/master/Danny_Siu_Resume.pdf), which can help give you a little more background before reading into the details of my projects and website. 
 
 
+# Digital Work and Projects with Collaborators
 
-You can access the following digital work that I have done (alongside other collaborators) on this website. 
+
+You can access the following digital work that I have done (alongside other collaborators) through the following hyperlinks.
 
 I worked on a [club website](https://lhsmbc.weebly.com/) with my webmaster Richard Liang to provide resources and weekly schedules for my club members. This was for the Mindbenders Club, a club devoted to learning how to solve all kinds of puzzles, which I founded and ran my junior and senior year of high school.
 I also worked on multiple science projects, creating a password checker to help users [make secure passwords](https://docs.google.com/presentation/d/156JEsLcTGpvHBU-K7qc9XooFHSUw8WnqGGBrgfEZzhM/edit?usp=sharing),
@@ -19,7 +21,7 @@ My research was done in collaboration with Jake Martin in the Computational Chem
 
 Overall, hope you enjoy my website and getting to know a little more about me!
 
-![2nd Photo of ME](/images/profile_1.JPG){:height="326px" width="491px"}{transform: rotate(90deg)}
+![2nd Photo of ME](/images/Danny_7.JPG){:height="326px" width="491px"}{:rotate(90deg)}
 
 
 
