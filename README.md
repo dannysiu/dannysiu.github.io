@@ -20,7 +20,7 @@ My research was done in collaboration with Jake Martin in the Computational Chem
 
 Overall, hope you enjoy my website and getting to know a little more about me!
 
-![Photo of ME](/images/profile_formal.JPG){:height="667px" width="375px"}
+![Photo of ME](/images/profile_formal.PNG){:height="667px" width="375px"}
 
 
 
