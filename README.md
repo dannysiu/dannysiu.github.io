@@ -1,4 +1,5 @@
-## Welcome, visitors! I'm Danny Siu and I'm happy you've come to my website! ![Photo of ME](/images/profile_formal.PNG){:height="667px" width="375px"}
+## Welcome, visitors! I'm Danny Siu and I'm happy you've come to my website! 
+![Photo of ME](/images/profile_formal.PNG){:height="667px" width="375px"}
 
 *Note that the following text in blue are hyperlinks! (Do Ctrl+Click or Command+Click to open these links in new pages)*
 
@@ -18,8 +19,7 @@ My research was done in collaboration with Jake Martin in the Computational Chem
 
 Overall, hope you enjoy my website and getting to know a little more about me!
 
-![2nd Photo of ME](/images/profile_1.JPG){:height="491px" width="326px"}{
-transform: rotate(90deg);}
+![2nd Photo of ME](/images/profile_1.JPG){:height="326px" width="491px"}{transform: rotate(90deg)}
 
 
 
