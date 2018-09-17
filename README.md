@@ -21,7 +21,7 @@ My research was done in collaboration with Jake Martin in the Computational Chem
 
 Overall, hope you enjoy my website and getting to know a little more about me!
 
-![2nd Photo of ME](/images/Danny_7.JPG){:height="326px" width="491px"}{:rotate(90deg)}
+![2nd Photo of ME](/images/Danny_rotated.JPG){:height="491px" width="326px"}
 
 
 
