@@ -3,7 +3,7 @@
 
 *Note that the following text in blue are hyperlinks! (Do Ctrl+Click or Command+Click to open these links in new pages)*
 
-If you are confused about anything or just want the general gist of my prior experiences, my resume can be found [here](https://github.com/dannysiu/dannysiu.github.io/edit/master/Danny_Siu_Resume.pdf), which can help give you a little more background before reading into the details of my projects and website. 
+If you are confused about anything or just want the general gist of my prior experiences, my resume can be found [here](https://drive.google.com/file/d/1jjFI7MXxWrgk3AnNz2HhEwlgSuml5Bgl/view?usp=sharing), which can help give you a little more background before reading into the details of my projects and website. 
 
 
 # Digital Work and Projects with Collaborators
