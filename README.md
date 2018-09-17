@@ -1,7 +1,4 @@
-## Welcome, visitors! This is Danny Siu and I'm happy you've come to my website!
-
-![A cute Jigglypuff](/images/jigglypuff_dream.png){:height="112px" width="120px"}
-
+## Welcome, visitors! I'm Danny Siu and I'm happy you've come to my website! ![Photo of ME](/images/profile_formal.PNG){:height="667px" width="375px"}
 
 *Note that the following text in blue are hyperlinks! (Do Ctrl+Click or Command+Click to open these links in new pages)*
 
@@ -10,6 +7,7 @@ If you are confused about anything or just want the general gist of my prior exp
 
 
 You can access the following digital work that I have done (alongside other collaborators) on this website. 
+
 I worked on a [club website](https://lhsmbc.weebly.com/) with my webmaster Richard Liang to provide resources and weekly schedules for my club members. This was for the Mindbenders Club, a club devoted to learning how to solve all kinds of puzzles, which I founded and ran my junior and senior year of high school.
 I also worked on multiple science projects, creating a password checker to help users [make secure passwords](https://docs.google.com/presentation/d/156JEsLcTGpvHBU-K7qc9XooFHSUw8WnqGGBrgfEZzhM/edit?usp=sharing),
 and analyzing the [effects of brainwave entrainment on orb-weaver spiders](https://docs.google.com/presentation/d/1u4B8xCdYeZR80ZbcKXOvt5HCpNcHCRkXaE4FoFWpNbo/edit?usp=sharing) (collab. with Adam Moss). 
@@ -20,7 +18,7 @@ My research was done in collaboration with Jake Martin in the Computational Chem
 
 Overall, hope you enjoy my website and getting to know a little more about me!
 
-![Photo of ME](/images/profile_formal.PNG){:height="667px" width="375px"}
+![2nd Photo of ME](/images/profile_1.JPG){:height="491px" width="326px"}
 
 
 
@@ -31,8 +29,6 @@ In the meantime, I'll be updating this website in the weeks to come, so be sure 
 
 Thanks for visiting! 
 ![A wild and happy Pikachu](/images/pikachu_dancing.png){:height="132px" width="148px"}
-![Goofy Pokemon stack](/images/goof_stacks.jpg){:height="450px" width="342px"}
-
 
 
 
