@@ -2,7 +2,7 @@
 
 ![A cute Jigglypuff](/images/jigglypuff_dream.png){:height="112px" width="120px"}
 
-You can access my previous [websites] and [projects] by clicking on the previous keywords. 
+You can access my previous [websites](https://lhsmbc.weebly.com/) and [projects] by clicking on the previous keywords. 
 
 My resume can be found [here](https://github.com/dannysiu/dannysiu.github.io/edit/master/Danny_Siu_Resume.pdf), which can help give you a little more background before reading
 into the details of my projects and website. 
