@@ -3,7 +3,7 @@
 
 *Note that the following text in blue are hyperlinks! (Do Ctrl+Click or Command+Click to open these links in new pages)*
 
-If you are confused about anything or just want the general gist of my prior experiences, my resume can be found [here](https://drive.google.com/file/d/1jjFI7MXxWrgk3AnNz2HhEwlgSuml5Bgl/view?usp=sharing), which can help give you a little more background before reading into the details of my projects and website. 
+If you are confused about anything or just want the general gist of my prior experiences, my resume can be found [here](https://drive.google.com/file/d/1OrLW3KoQPoX7Z3jF30KO-OGV34Jsnrbg/view?usp=sharing), which can help give you a little more background before reading into the details of my projects and website. 
 
 If you want to check out my online profiles, you can find them here on [LinkedIn](https://www.linkedin.com/in/danny-siu-berkeley/) and [Handshake](https://berkeley.joinhandshake.com/users/6761922), although they mostly reiterate information from my resume. You can find *much* more interesting details about my projects down below...
 
