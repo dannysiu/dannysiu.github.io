@@ -1,7 +1,7 @@
 ## Welcome, visitors! I'm Danny Siu and I'm happy you've come to my website! 
 ![Photo of ME](/images/profile_formal.PNG){:height="667px" width="375px"}
 
-## As you might've already realized, this website does not showcase epic website design by any means. That will hopefully come in the near future. However, I would love it if you use my website to get to know me better and examine some of my past work and experiences. There are many links to separate pages and more exciting things that you probably can't get from my resume alone. So, click away on those links and read up on more detailed elaboration on my past work. Again, thanks for visiting!!
+#### As you might've already realized, this website does not showcase epic website design by any means. That will hopefully come in the near future. However, I would love it if you use my website to get to know me better and examine some of my past work and experiences. There are many links to separate pages and more exciting things that you probably can't get from my resume alone. So, click away on those links and read up on more detailed elaboration on my past work. Again, thanks for visiting!!
 
 *Note that the following text in blue are hyperlinks! (Do Ctrl+Click or Command+Click to open these links in new pages)*
 
